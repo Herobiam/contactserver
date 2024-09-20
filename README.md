@@ -34,8 +34,6 @@ This is a basic Express server that provides an API for managing contacts.
    ORIGIN=http://localhost:3000
    ```
 
-   This defines the origin URL used to generate contact avatar URLs.
-
 
 4. **Run the server**:
 
