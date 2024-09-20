@@ -1,7 +1,7 @@
 
 # Simple Express Server
 
-This is a basic Express server that provides an API for managing contacts. It uses in-memory storage to maintain contact information and is configured to read environment variables from a `.env` file.
+This is a basic Express server that provides an API for managing contacts.
 
 ## Features
 
