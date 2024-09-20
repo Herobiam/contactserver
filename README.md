@@ -38,15 +38,8 @@ This is a basic Express server that provides an API for managing contacts. It us
 
    This defines the origin URL used to generate contact avatar URLs.
 
-4. **Create the `public` directory**:
 
-   In the root of the project, create a `public` directory to serve static files. You can place any images or files in here (e.g., `richard.jpg`, `karen.jpg`, etc.).
-
-   ```bash
-   mkdir public
-   ```
-
-5. **Run the server**:
+4. **Run the server**:
 
    ```bash
    npm start
