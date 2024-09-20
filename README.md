@@ -73,9 +73,10 @@ This is a basic Express server that provides an API for managing contacts. It us
    **Request body** (JSON):
    ```json
    {
-     "name": "John Doe",
-     "handle": "@johndoe"
-   }
+      name: 'First National Bank',
+      surname: 'Bank',
+      email: 'contact@fnb.com',
+    },
    ```
 
    **Example request**:
