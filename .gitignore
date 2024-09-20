@@ -1,0 +1,29 @@
+# Node.js dependencies
+/node_modules
+
+# Build output
+/build
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files and directories
+/temp
+/tmp
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Coverage directory
+/coverage
+
+# Package lock files (optional)
+package-lock.json
+yarn.lock
