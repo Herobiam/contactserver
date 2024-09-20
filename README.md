@@ -4,8 +4,6 @@
 This is a basic Express server that provides an API for managing contacts.
 
 ## Features
-
-- Serve static files from the `public` directory
 - Simple API for adding, deleting, and retrieving contacts
 - Uses `dotenv` to load environment variables from a `.env` file
 - Supports CORS for cross-origin requests
@@ -75,7 +73,7 @@ This is a basic Express server that provides an API for managing contacts.
    **Example request**:
 
    ```bash
-   curl -X POST -H "Content-Type: application/json" -H "Authorization: your-token"    -d '{"name": "John Doe", "handle": "@johndoe"}'    http://localhost:3000/contacts
+   curl -X POST -H "Content-Type: application/json" -H "Authorization: your-token"    -d '{"name": "John Doe", "surname": "mkafa", "email": "makafa@d.com"}'    http://localhost:3000/contacts
    ```
 
 ### 3. **DELETE /contacts/:id**
