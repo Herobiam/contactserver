@@ -18,8 +18,8 @@ This is a basic Express server that provides an API for managing contacts.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/simple-express-server.git
-   cd simple-express-server
+   [git clone https://github.com/your-username/simple-express-server.git](https://github.com/Herobiam/contactserver.git)
+   cd contactserver
    ```
 
 2. **Install dependencies**:
